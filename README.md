@@ -1,6 +1,6 @@
 # Duolingo Valid Email Checker
 
-![image]()
+![image](https://raw.githubusercontent.com/alexrony21/Duolingo-Valid-Email-Checker/refs/heads/main/Duolingo_Valid_Email_Checker.png)
 
 ## Features:
 1. **Accurate Result** – Ensures precise validation of Duolingo email accounts.  
